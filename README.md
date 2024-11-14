@@ -23,3 +23,4 @@ Copy code: streamlit run app.py(include your path like given in the txt file)
 
 Step 5: 
 Test the Model.
+use the data sets provided in the  (sample data sets).
