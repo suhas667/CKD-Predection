@@ -1,0 +1,1 @@
+streamlit run "D:\CKD-Prediction-ML\Predection Web App.py"
